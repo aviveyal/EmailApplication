@@ -78,7 +78,6 @@
     <Content Include="Images\email-logo.png" />
     <Content Include="MainPage.html" />
     <Content Include="Desktop.css" />
-    <Content Include="Mobile.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
