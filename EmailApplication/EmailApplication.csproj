@@ -76,7 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\email-logo.png" />
-    <Content Include="MainPage.html" />
+    <Content Include="index.html" />
     <Content Include="Desktop.css" />
     <Content Include="Web.config" />
   </ItemGroup>
